@@ -1,6 +1,6 @@
 # stock_data_analysis
 
-Here's a step-by-step summary of what this Stock Performance Analyzer notebook accomplishes:
+step-by-step summary of what this Stock Performance Analyzer notebook accomplishes:
 
 Data Collection & Setup
 
